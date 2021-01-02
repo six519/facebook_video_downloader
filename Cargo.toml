@@ -1,0 +1,14 @@
+[package]
+name = "Facebook_Video_Downloader"
+version = "0.1.0"
+authors = ["Ferdinand Silva <ferdinandsilva@ferdinandsilva.com>"]
+edition = "2018"
+license = "WTFPL"
+description = "Download Videos From Facebook"
+homepage = "https://github.com/six519/facebook_video_downloader"
+repository = "https://github.com/six519/facebook_video_downloader"
+
+[dependencies]
+regex = "1.4.2"
+reqwest = { version = "0.10", features = ["blocking", "json"] }
+select = "0.5.0"
