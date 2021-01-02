@@ -1,5 +1,5 @@
 [package]
-name = "Facebook_Video_Downloader"
+name = "facebook_video_downloader"
 version = "0.1.0"
 authors = ["Ferdinand Silva <ferdinandsilva@ferdinandsilva.com>"]
 edition = "2018"
