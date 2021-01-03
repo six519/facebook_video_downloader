@@ -1,6 +1,6 @@
 [package]
 name = "facebook_video_downloader"
-version = "0.1.1"
+version = "0.1.2"
 authors = ["Ferdinand Silva <ferdinandsilva@ferdinandsilva.com>"]
 edition = "2018"
 license = "WTFPL"
